@@ -1,2 +1,3 @@
 # glslang-rust
-[glslang](https://github.com/KhronosGroup/glslang) rewrite in Rust
+
+The [glslang](https://github.com/KhronosGroup/glslang) rewrite in Rust
